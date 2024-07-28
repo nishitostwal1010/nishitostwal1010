@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishitostwal1010" alt="nishitostwal1010" /></a> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](https://github.com/nishitostwal1010/spotifyClone)
+- 🔭 I’m currently working on [Quizzy}
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 📫 How to reach me **nishitostwalmicrosoft@gmail.com**
+- 📫 How to reach me **nishitostwal10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
