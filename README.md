@@ -51,13 +51,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://seeklogo.com/vector-logo/528369/langchain" alt="LangChain" width="40" height="40"/>
 
   <!-- Other Technologies -->
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="power bi" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/138190734?s=200&v=4" alt="LangChain" width="40" height="40"/>
   <img src="https://aceternity.com/favicon.ico" alt="Aceternity UI" width="40" height="40"/>
 </p>
 
