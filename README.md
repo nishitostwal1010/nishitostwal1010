@@ -58,7 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
   <img src="https://aceternity.com/favicon.ico" alt="Aceternity UI" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/50691498?s=200&v=4" alt="pydantic" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=48&v=4" alt="pydantic" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="langchain" width="80" height="40"/>
 </p>
 
